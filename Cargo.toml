@@ -7,7 +7,7 @@ description = "msgpack-rpc neovim client"
 documentation = "http://daa84.github.io/neovim-lib/neovim_lib/index.html"
 repository = "https://github.com/daa84/neovim-lib"
 readme = "README.md"
-categories = "api-bindings"
+categories = ["api-bindings"]
 keywords = ["neovim"]
 exclude = ["generate.bat", "Makefile"]
 
